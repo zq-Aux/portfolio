@@ -1,5 +1,5 @@
 # portfolio
-A place to host my projects
+A place to host my smaller projects
 
 All projects in this repository are developed by me, Ethan Garvey.
 As of September 24, 2019, all currently uploaded files are free to
